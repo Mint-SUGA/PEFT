@@ -1,3 +1,8 @@
+# FIKA Assistant UI
+## Fine-Tuned Model (task 1)
+https://huggingface.co/spaces/YT07/Iris
+## Parameter-modified Model (task 2)
+https://huggingface.co/spaces/YT07/Iris2
 # Task2 Improvement ways
 ## model-centric approach  
 e.g., tune hyperparameters, change the 
